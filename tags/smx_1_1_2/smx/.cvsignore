@@ -1,0 +1,9 @@
+.deps
+Makefile
+*.log
+*.cache
+*.status
+config.h
+*.plg
+*.local
+libtool
